@@ -1,0 +1,5 @@
+E:\Study\编译原理\Project\SyntacticAnalyzer\Analysis\bin\Debug\Analysis.dll
+E:\Study\编译原理\Project\SyntacticAnalyzer\Analysis\bin\Debug\Analysis.pdb
+E:\Study\编译原理\Project\SyntacticAnalyzer\Analysis\obj\Debug\Analysis.csprojResolveAssemblyReference.cache
+E:\Study\编译原理\Project\SyntacticAnalyzer\Analysis\obj\Debug\Analysis.dll
+E:\Study\编译原理\Project\SyntacticAnalyzer\Analysis\obj\Debug\Analysis.pdb

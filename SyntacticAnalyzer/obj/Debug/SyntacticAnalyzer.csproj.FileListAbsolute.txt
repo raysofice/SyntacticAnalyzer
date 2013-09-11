@@ -1,0 +1,11 @@
+E:\Study\编译原理\Project\SyntacticAnalyzer\SyntacticAnalyzer\bin\Debug\SyntacticAnalyzer.exe.config
+E:\Study\编译原理\Project\SyntacticAnalyzer\SyntacticAnalyzer\bin\Debug\SyntacticAnalyzer.exe
+E:\Study\编译原理\Project\SyntacticAnalyzer\SyntacticAnalyzer\bin\Debug\SyntacticAnalyzer.pdb
+E:\Study\编译原理\Project\SyntacticAnalyzer\SyntacticAnalyzer\obj\Debug\SyntacticAnalyzer.csprojResolveAssemblyReference.cache
+E:\Study\编译原理\Project\SyntacticAnalyzer\SyntacticAnalyzer\obj\Debug\SyntacticAnalyzer.SyntacticAnalyzer.resources
+E:\Study\编译原理\Project\SyntacticAnalyzer\SyntacticAnalyzer\obj\Debug\SyntacticAnalyzer.Properties.Resources.resources
+E:\Study\编译原理\Project\SyntacticAnalyzer\SyntacticAnalyzer\obj\Debug\SyntacticAnalyzer.csproj.GenerateResource.Cache
+E:\Study\编译原理\Project\SyntacticAnalyzer\SyntacticAnalyzer\obj\Debug\SyntacticAnalyzer.exe
+E:\Study\编译原理\Project\SyntacticAnalyzer\SyntacticAnalyzer\obj\Debug\SyntacticAnalyzer.pdb
+E:\Study\编译原理\Project\SyntacticAnalyzer\SyntacticAnalyzer\bin\Debug\Analysis.dll
+E:\Study\编译原理\Project\SyntacticAnalyzer\SyntacticAnalyzer\bin\Debug\Analysis.pdb
